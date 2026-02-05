@@ -1,0 +1,28 @@
+.produto{
+
+
+border: 1px solid #ccc;
+padding: 10px;
+margin-bottom: 10px;
+border-radius: 5px;
+
+}
+
+produto h3{
+
+    margin-top: 0; 
+    margin-top: 5px;
+}
+
+.produto p{
+    margin: 5px 0;
+}
+
+.disponivel{
+    color: green;
+}
+
+.indisponivel{
+    color: red;
+    font-family: bold ;
+}
